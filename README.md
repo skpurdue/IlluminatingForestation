@@ -1,2 +1,2 @@
-# DataFiberArts
-Data &amp; Fiber Arts project website
+# Illuminating Forestation
+Illuminating Forestation project website
